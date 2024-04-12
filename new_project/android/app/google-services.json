@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049752927527",
+    "project_id": "otpemailvalidation",
+    "storage_bucket": "otpemailvalidation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049752927527:android:fc3ed2ad9c386baf5afd02",
+        "android_client_info": {
+          "package_name": "com.example.new_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0SI8PdpLCr_83MNmwwW0Ji0UBzR_ZfCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
